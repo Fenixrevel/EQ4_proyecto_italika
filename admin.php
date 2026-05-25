@@ -1,7 +1,7 @@
 <?php
 include("conexion.php");
 
-$sql = "SELECT * FROM refacciones LIMIT 50";
+$sql = "SELECT * FROM refacciones";
 $resultado = mysqli_query($conexion, $sql);
 ?>
 
