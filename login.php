@@ -19,7 +19,7 @@
             <div class="card shadow p-4">
 
                 <h2 class="text-center mb-4">
-                    LOGIN
+                    Iniciar Sesion
                 </h2>
 
                 <?php
