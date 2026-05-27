@@ -165,7 +165,7 @@ $resultado = mysqli_query($conexion, $sql);
 <section class="hero">
     <div class="overlay"></div>
     <div class="hero-content">
-        <h1>TU MOTO, <span>NUESTRA PASIÓN</span></h1>
+        <h1>ITALIKA, <span>NUESTRA PASIÓN</span></h1>
         <p>Sistema profesional de refacciones para motocicletas</p>
         <a href="#productos" class="btn-custom">Ver productos</a>
     </div>
