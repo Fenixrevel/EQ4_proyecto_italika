@@ -147,7 +147,7 @@ body{
 <th>Nombre</th>
 <th>Descripción</th>
 <th>Precio</th>
-<th>Stock</th>
+<th>Cantidad</th>
 <th>Acciones</th>
 </tr>
 </thead>
